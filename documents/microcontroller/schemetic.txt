@@ -1,1 +1,2 @@
 https://github.com/BenRoe/atmega328p-standalone-board/blob/master/schematic.pdf
+https://www.pcbway.com/project/shareproject/Simple_Standalone_ATMega328p_Microcontroller_9b8be976.html
