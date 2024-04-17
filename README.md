@@ -1,3 +1,1 @@
 # TrailGuard
-Chandupa
-oshani
