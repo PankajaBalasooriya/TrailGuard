@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=RESET Pin=SW?-2
+Removed Pin From Net: NetName=NetR?_1 Pin=SW?-3
+Change Component Footprint: Designator=SW? Old Footprint=FP-FSM2JSMAA-MFG New Footprint=TECO-1825910-6_V
+Change Component Comment : Designator=SW? Old Comment=Push Button New Comment=1825910-6
+Change Managed Component Library Link : Designator=SW? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=AA6E6A7A-AFF0-40F7-9E3E-8F6A88473EC3 New ItemGUID=9D672B88-308C-4BE1-ABC8-14BA635D9EFE Old RevisionGUID=803B16CF-BE97-4045-AA60-6CBADE4609E7 New RevisionGUID=1A7C09F2-A786-4D53-8E36-0B0D6FD96266
+Change component parameters: Designator = "SW?" ("SW?"); Footprint = "FP-FSM2JSMAA-MFG"; UniqueID = "\ERDIQYAY" ("\ERDIQYAY")
+Change component parameters (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Material"; Value = "PolybutyleneTerephthalate"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "RoundButton"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Base Material"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Body Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bushing Type"; Value = "Unthreaded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A@24VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1825910%7FC9%7Fpdf%7FEnglish%7FENG_CD_1825910_C9.pdf%7F1825910-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. C9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Strength"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "5.99x5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "1825910"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = "MomentaryContact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination"; Value = "N/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum AC Voltage Rating"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum DC Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Insulation Resistance"; Value = "100MOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-35to85C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 5.99 x 5.99 mm, Pitch 6.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "1825910-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pole Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Weight"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seal Description"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seal Location"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Configuration"; Value = "OFF(ON)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Type"; Value = "PCPins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thread Size"; Value = "N/R"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-GRM31C-0_3-e0_3_0_9-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.126inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.075inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.063inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_1 Pin=SW?-2
+Added Pin To Net: NetName=RESET Pin=SW?-3
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component LED? 599-0410-127F
+Added Member To Class: ClassName=Controller Member=Component R? CRCW1206330RFKEA
+Added Member To Class: ClassName=Controller Member=Component R? 10K
+Added Member To Class: ClassName=Controller Member=Component R? ERJ-8GEYJ103V

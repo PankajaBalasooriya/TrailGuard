@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=R? Old Footprint=FP-CF18-MFG New Footprint=RESAD1590W60L630D240
+Change Component Comment : Designator=R? Old Comment=CF18JT2K20 New Comment=MFR-25FBF52-10K
+Change Managed Component Library Link : Designator=R? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=8B688DC4-10BE-4234-BFB5-652C9EFE92B0 New ItemGUID= Old RevisionGUID=11AC5996-5E21-45BB-9A53-1C92DDE2C5E0 New RevisionGUID=
+Change component parameters: Designator = "R?" ("R?"); Footprint = "FP-CF18-MFG"; UniqueID = "\EHGUZSIH" ("\EHGUZSIH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/MFR-25FBF52-10K?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component LED? 599-0410-127F
+Added Member To Class: ClassName=Controller Member=Component R? 1k
+Added Member To Class: ClassName=Controller Member=Component R? 10K
+Added Member To Class: ClassName=Controller Member=Component R? MFR-25FBF52-10K
+Added Member To Class: ClassName=Controller Member=Component R? CRCW1206330RFKEA
