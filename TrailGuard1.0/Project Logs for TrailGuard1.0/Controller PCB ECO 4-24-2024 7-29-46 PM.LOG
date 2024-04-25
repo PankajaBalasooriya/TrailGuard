@@ -1,0 +1,17 @@
+Change Footprint: Footprint Not Found FP-RCE1A2-MFG
+Add Component: Footprint Not Found ALUMINUM_4mm
+Add Component: Footprint Not Found CAPACITOR 104
+Added Pin To Net: NetName=RESET Pin=C?-2
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 1uF/50V
+Added Member To Class: ClassName=Controller Member=Component C? 0.1uf
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? 1uF/50V
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 330 1/4W 5%
