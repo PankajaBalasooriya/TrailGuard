@@ -1,0 +1,22 @@
+Change Component Comment : Designator=J? Old Comment=B2B-XH-AM_LF__SN_ New Comment=Battery
+Change Component Comment : Designator=J? Old Comment=B2B-XH-AM_LF__SN_ New Comment=Buck out
+Change Component Comment : Designator=J? Old Comment=B2B-XH-AM_LF__SN_ New Comment=Switch
+Change Component Comment : Designator=J? Old Comment=Switch New Comment=Buck In
+Add Net: Net with name "NetJ?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B2B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Controller Member=Component J? Battery
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buck In
+Added Member To Class: ClassName=Controller Member=Component J? Switch
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Programmer
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 100 5%
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%

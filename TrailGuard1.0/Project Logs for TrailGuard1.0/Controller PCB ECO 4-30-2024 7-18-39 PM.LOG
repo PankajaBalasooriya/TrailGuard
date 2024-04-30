@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=RESET Pin=C?-1
+Removed Pin From Net: NetName=RESET Pin=J?-1
+Removed Pin From Net: NetName=RESET Pin=U?-1
+Change Component Footprint: Designator=C? Old Footprint=CAPC3225X280N New Footprint=CAPPRD350W65D800H1300
+Change Component Comment : Designator=C? Old Comment=220uf New Comment=870585574003
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPC3225X280N"; UniqueID = "\QENVJJST" ("\QENVJJST")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/components/products/datasheet/870585574003.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "870585574003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-870585574003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/870585574003?qs=9vOqFld9vZUAYLebAKp6%2Fg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=C?-2
+Change Net Name : Old Net Name=RESET New Net Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-6
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetJ?_1" already exists
+Added Pin To Net: NetName=RESET Pin=J?-1
+Added Pin To Net: NetName=RESET Pin=R?-1
+Added Pin To Net: NetName=RESET Pin=SW?-3
+Added Pin To Net: NetName=RESET Pin=U?-1
+Added Net: Name=RESET
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component J? B2B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Controller Member=Component J? B2B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B2B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Controller Member=Component J? Programmer
+Added Member To Class: ClassName=Controller Member=Component J? B2B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 100 5%
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%
