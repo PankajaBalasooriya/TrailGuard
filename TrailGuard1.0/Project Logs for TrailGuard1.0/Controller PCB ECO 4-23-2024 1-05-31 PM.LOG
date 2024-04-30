@@ -1,0 +1,21 @@
+Added Component: Designator=Y?(LFXTAL036391Bulk)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LFXTAL036391Bulk.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "IQD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LFXTAL036391Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "449-LFXTAL036391BULK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL036391Bulk?qs=e4%2FAndAAwgLVSm%2FKWOsYLg%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component R? 330 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component Y? LFXTAL036391Bulk

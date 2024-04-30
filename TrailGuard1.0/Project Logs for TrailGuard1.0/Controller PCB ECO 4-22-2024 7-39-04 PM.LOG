@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=+5V Pin=R?-2
+Removed Pin From Net: NetName=NetLED?_1 Pin=R?-2
+Change Component Footprint: Designator=R? Old Footprint=ERJS08_U08_(1206) New Footprint=RESAD1590W60L630D240
+Change Component Footprint: Designator=R? Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=RESAD1590W60L630D240
+Change Component Footprint: Designator=R? Old Footprint=INDAD1650W63L650D250 New Footprint=RESAD1590W60L630D240
+Change Component Comment : Designator=R? Old Comment=10K 1/4W 5% New Comment=1K 1/4W 5%
+Change Component Comment : Designator=R? Old Comment=10K New Comment=10K 1/4W 1%
+Change Component Comment : Designator=R? Old Comment=CRCW1206330RFKEA New Comment=330 1/4W 5%
+Change Component Comment : Designator=R? Old Comment=MFR-25FBF52-10K New Comment=10K 1/4W 5%
+Change Managed Component Library Link : Designator=R? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=7472785E-504A-4C73-A89C-38BE6F3CF88E New ItemGUID= Old RevisionGUID=FB4824BA-AEF0-45F7-BB99-288F7D9A6F85 New RevisionGUID=
+Change component parameters: Designator = "R?" ("R?"); Footprint = "FP-CRCW1206-e3-IPC_A"; UniqueID = "\HCADHRUY" ("\HCADHRUY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/MFR-25FBF52-10K?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "INDAD1650W63L650D250"; UniqueID = "\WAZYKXYP" ("\WAZYKXYP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/MFR-25FBF52-10K?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "ERJS08_U08_(1206)"; UniqueID = "\YEIYLZBI" ("\YEIYLZBI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/mfr-25fbf52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/MFR-25FBF52-10K?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=+5V Pin=R?-2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-19
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component LED? 599-0410-127F
+Added Member To Class: ClassName=Controller Member=Component R? 330 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 1K 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 5%

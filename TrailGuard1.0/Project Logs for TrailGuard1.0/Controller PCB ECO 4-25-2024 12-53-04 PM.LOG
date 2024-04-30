@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=RESET Pin=M?-6
+Added Component: Designator=M?(MT3608 Module)
+Added Pin To Net: NetName=RESET Pin=M?-4
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetM?_1 Pin=M?-1
+Added Pin To Net: NetName=NetM?_1 Pin=M?-3
+Added Net: Name=NetM?_1
+Added Pin To Net: NetName=NetM?_2 Pin=M?-2
+Added Pin To Net: NetName=NetM?_2 Pin=M?-6
+Added Net: Name=NetM?_2
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component M? TP4056Module
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 1%
+Added Member To Class: ClassName=Controller Member=Component R? 330 1/4W 5%

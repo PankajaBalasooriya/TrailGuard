@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=M?-6
+Added Component: Designator=C?(MURA-DE1E3KX222MA5BA01)
+Add component (AddParameter): Name = "Capacitance"; Value = "2200pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø10x8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c85c.ashx?la=zh-cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C85C-3, 07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 10 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DE1E3KX222MA5BA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (VAC)"; Value = "250VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±20%"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=GND New Net Name=RESET
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? DE1E3KX222MA5BA01
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component R? 330 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 5%

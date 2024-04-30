@@ -1,0 +1,16 @@
+Change Footprint: Footprint Not Found 0.47uF/50V
+Change Component Comment : Designator=C? Old Comment=0.1uf New Comment=0.47uF/50V
+Change Managed Component Library Link : Designator=C? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=215EA399-EB97-4C29-95BF-F78873BA71C8 New ItemGUID= Old RevisionGUID=F67D85D2-A121-4A1D-AF29-1ED612F688FB New RevisionGUID=
+Change component parameters: Designator = "C?" ("C?"); Footprint = "FP-RCE1A2-MFG"; UniqueID = "\LRBIHAHK" ("\LRBIHAHK")
+Added Pin To Net: NetName=RESET Pin=C?-1
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? 0.47uF/50V
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component J? Display 2
+Added Member To Class: ClassName=Controller Member=Component J? NRPN031PAEN-RC
+Added Member To Class: ClassName=Controller Member=Component J? Display 1
+Added Member To Class: ClassName=Controller Member=Component R? 330 1/4W 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10K 1/4W 5%
