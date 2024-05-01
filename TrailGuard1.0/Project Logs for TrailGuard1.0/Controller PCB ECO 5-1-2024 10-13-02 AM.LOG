@@ -1,0 +1,85 @@
+Added Component: Designator=R?(RESC3116X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-8geyj103v/panasonic?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/PANA/PANA-S-A0009891627/PANA-S-A0009891627-1.pdf?hkey=52A5661711E402568146F3353EA87419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-8GEYJ103V?qs=IZrxGxQQvkNYuW0TYiASIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-8geyj103v/panasonic?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/PANA/PANA-S-A0009891627/PANA-S-A0009891627-1.pdf?hkey=52A5661711E402568146F3353EA87419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-8GEYJ103V?qs=IZrxGxQQvkNYuW0TYiASIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-8geyj103v/panasonic?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/PANA/PANA-S-A0009891627/PANA-S-A0009891627-1.pdf?hkey=52A5661711E402568146F3353EA87419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-8GEYJ103V?qs=IZrxGxQQvkNYuW0TYiASIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S?(B3F-4055)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b3f5050/omron?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-5050?qs=dOLq8QE0Pqqk%2FO9x2OpTQw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S?(B3F-4055)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b3f5050/omron?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-5050?qs=dOLq8QE0Pqqk%2FO9x2OpTQw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S?(B3F-4055)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b3f5050/omron?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-B3F-5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-5050?qs=dOLq8QE0Pqqk%2FO9x2OpTQw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=PD7 Pin=R?-2
+Added Pin To Net: NetName=PD8 Pin=R?-2
+Added Pin To Net: NetName=PD9 Pin=R?-2
+Added Pin To Net: NetName=PD7 Pin=S?-1
+Added Pin To Net: NetName=PD8 Pin=S?-1
+Added Pin To Net: NetName=PD9 Pin=S?-1
+Added Pin To Net: NetName=+5V Pin=S?-4
+Added Pin To Net: NetName=+5V Pin=S?-4
+Added Pin To Net: NetName=+5V Pin=S?-4
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Programmer
+Added Member To Class: ClassName=Controller Member=Component J? Buck out
+Added Member To Class: ClassName=Controller Member=Component J? Buck In
+Added Member To Class: ClassName=Controller Member=Component J? Switch
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Battery
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 150 1%
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050
