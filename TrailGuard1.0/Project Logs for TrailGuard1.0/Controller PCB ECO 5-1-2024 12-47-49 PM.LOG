@@ -1,0 +1,248 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C??-1
+Removed Pin From Net: NetName=RESET Pin=J?-1
+Removed Pin From Net: NetName=RXD Pin=J?-2
+Removed Pin From Net: NetName=TXD Pin=J?-3
+Removed Pin From Net: NetName=NetLED?_2 Pin=LED?-2
+Removed Pin From Net: NetName=NetLED?_2 Pin=R?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Controller Member=C??
+Change Component Footprint: Designator=J? Old Footprint=FP-NRPN031PAEN-RC-MFG New Footprint=FP-PBC04DAAN-MFG
+Change Component Footprint: Designator=LED? Old Footprint=LEDC2012X80N New Footprint=C4SMABGYCR34Q4S1
+Change Component Comment : Designator=LED? Old Comment=LED SMD 0805 New Comment=C4SMA-BGY-CR34Q4S1
+Change Component Comment : Designator=J? Old Comment=Programmer New Comment=PBC04DAAN
+Change Managed Component Library Link : Designator=J? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5CAD2A91-7C78-456D-AFFE-F13775982C94 New ItemGUID=75799801-CEB9-4A0C-8A38-B20F4172A6BE Old RevisionGUID=D6D1C946-92E6-4696-9469-D301DFBFAA07 New RevisionGUID=4D10E703-1FC4-4569-B80B-129B93F5FDE8
+Change component parameters: Designator = "J?" ("J?"); Footprint = "FP-NRPN031PAEN-RC-MFG"; UniqueID = "\GIUNPYCX" ("\GIUNPYCX")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "0.23inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "5.08mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED?" ("LED?"); Footprint = "LEDC2012X80N"; UniqueID = "\QYELHZKG" ("\QYELHZKG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/723/C4SMA_1442-2583883.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CREE LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C4SMA-BGY-CR34Q4S1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "941-C4SMABGYCR34Q4S1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Cree-LED/C4SMA-BGY-CR34Q4S1?qs=7D1LtPJG0i16enWwaTngRw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1206(3216)100_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-PBC04DAAN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.23inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.08mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-PBC04DAAN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.23inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.08mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(C4SMABGYCR34Q4S1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/723/C4SMA_1442-2583883.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CREE LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C4SMA-BGY-CR34Q4S1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "941-C4SMABGYCR34Q4S1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Cree-LED/C4SMA-BGY-CR34Q4S1?qs=7D1LtPJG0i16enWwaTngRw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sml-lxt0805iw-tr/lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8886313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "696-SML-LXT0805IW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lumex/SML-LXT0805IW-TR?qs=9HInCHf8eFgASaxWaq368w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJP08D1000V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJP08J331V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJP08D1000V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJP08J331V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Pin To Net: NetName=RESET Pin=J?-1
+Added Pin To Net: NetName=DGND Pin=J?-3
+Added Pin To Net: NetName=RXD Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=J?-5
+Added Pin To Net: NetName=TXD Pin=J?-6
+Added Pin To Net: NetName=+5V Pin=J?-7
+Added Pin To Net: NetName=SDL Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=LED?-1
+Added Pin To Net: NetName=GND Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R?-1
+Added Pin To Net: NetName=PD3 Pin=U?-1
+Added Pin To Net: NetName=PD4 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=+5V Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=+5V Pin=U?-6
+Added Pin To Net: NetName=NetC?_2 Pin=U?-8
+Added Pin To Net: NetName=PD5 Pin=U?-9
+Added Pin To Net: NetName=PD6 Pin=U?-10
+Added Pin To Net: NetName=PD7 Pin=U?-11
+Added Pin To Net: NetName=PD8 Pin=U?-12
+Added Pin To Net: NetName=PD9 Pin=U?-13
+Added Pin To Net: NetName=PD10 Pin=U?-14
+Added Pin To Net: NetName=+5V Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=A0 Pin=U?-23
+Added Pin To Net: NetName=A1 Pin=U?-24
+Added Pin To Net: NetName=A2 Pin=U?-25
+Added Pin To Net: NetName=A3 Pin=U?-26
+Added Pin To Net: NetName=SDA Pin=U?-27
+Added Pin To Net: NetName=SDL Pin=U?-28
+Added Pin To Net: NetName=RESET Pin=U?-29
+Added Pin To Net: NetName=RXD Pin=U?-30
+Added Pin To Net: NetName=TXD Pin=U?-31
+Added Pin To Net: NetName=PD2 Pin=U?-32
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-22
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=PD11/MOSI Pin=J?-4
+Added Pin To Net: NetName=PD11/MOSI Pin=U?-15
+Added Net: Name=PD11/MOSI
+Added Pin To Net: NetName=PD12/MISO Pin=U?-16
+Added Net: Name=PD12/MISO
+Added Pin To Net: NetName=PD13/SCK Pin=J?-1
+Added Pin To Net: NetName=PD13/SCK Pin=J?-5
+Added Pin To Net: NetName=PD13/SCK Pin=R?-2
+Added Pin To Net: NetName=PD13/SCK Pin=U?-17
+Added Net: Name=PD13/SCK
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? 0.1uf
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Battery
+Added Member To Class: ClassName=Controller Member=Component J? Switch
+Added Member To Class: ClassName=Controller Member=Component J? Buzzer
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? PBC04DAAN
+Added Member To Class: ClassName=Controller Member=Component J? Buck out
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Display
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buck In
+Added Member To Class: ClassName=Controller Member=Component LED? C4SMA-BGY-CR34Q4S1
+Added Member To Class: ClassName=Controller Member=Component LED? LED SMD 0805
+Added Member To Class: ClassName=Controller Member=Component Q? IRLZ44NSTRLPBF
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%
+Added Member To Class: ClassName=Controller Member=Component R? 150 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050

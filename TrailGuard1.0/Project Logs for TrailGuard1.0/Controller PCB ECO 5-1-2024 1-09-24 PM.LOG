@@ -1,0 +1,33 @@
+Change Footprint: Footprint Not Found MALE-2.54-6P
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=Controller Member=Component C? 0.1uf
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component J? Buzzer
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buck out
+Added Member To Class: ClassName=Controller Member=Component J? Switch
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Battery
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buck In
+Added Member To Class: ClassName=Controller Member=Component J? MALE-2.54-6P
+Added Member To Class: ClassName=Controller Member=Component LED? LED SMD 0805
+Added Member To Class: ClassName=Controller Member=Component LED? C4SMA-BGY-CR34Q4S1
+Added Member To Class: ClassName=Controller Member=Component Q? IRLZ44NSTRLPBF
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 150 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 330 5%
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050

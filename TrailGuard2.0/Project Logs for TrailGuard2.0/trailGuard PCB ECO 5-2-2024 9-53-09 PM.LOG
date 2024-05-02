@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=D4 Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Add Component: Footprint Not Found TP4056Module
+Add Pin To Net: Unknown Pin: Pin M?-3
+Add Pin To Net: Unknown Pin: Pin M?-4
+Add Pin To Net: Unknown Pin: Pin M?-5
+Add Pin To Net: Unknown Pin: Pin M?-6
+Add Class Member: Failed to add class member : Component M? TP4056Module

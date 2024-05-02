@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=LED?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC?_2 Pin=Y?-2
+Change Footprint: Footprint Not Found MALE-2.54-6P
+Change Component Footprint: Designator=Y? Old Footprint=LFXTAL036391Bulk New Footprint=HC49S830507030ATF
+Change Component Comment : Designator=Y? Old Comment=16MHz Crystal Oscillator New Comment=HC49S-8-30-50-70-30-ATF
+Change component parameters: Designator = "Y?" ("Y?"); Footprint = "LFXTAL036391Bulk"; UniqueID = "\SSKMUMIR" ("\SSKMUMIR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/2877048.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Multicomp Pro"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HC49S-8-30-50-70-30-ATF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Controller Member=Component C? 0.33uf
+Added Member To Class: ClassName=Controller Member=Component C? 870585574003
+Added Member To Class: ClassName=Controller Member=Component C? 0.1uf
+Added Member To Class: ClassName=Controller Member=Component C? CAP 22pF 50V 1206(3216)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buck In
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buck out
+Added Member To Class: ClassName=Controller Member=Component J? Switch
+Added Member To Class: ClassName=Controller Member=Component J? Battery
+Added Member To Class: ClassName=Controller Member=Component J? B6B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Controller Member=Component J? Buzzer
+Added Member To Class: ClassName=Controller Member=Component J? MALE-2.54-6P
+Added Member To Class: ClassName=Controller Member=Component Q? IRLZ44NSTRLPBF
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 150 1%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component R? 10k 5%
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050
+Added Member To Class: ClassName=Controller Member=Component S? B3F-5050

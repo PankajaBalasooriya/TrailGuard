@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=A0 Pin=J10-2
+Removed Pin From Net: NetName=A6 Pin=R3-2
+Add Component: Footprint Not Found TP4056Module
+Added Pin To Net: NetName=A6 Pin=J10-2
+Add Pin To Net: Unknown Pin: Pin M1-3
+Add Pin To Net: Unknown Pin: Pin M1-4
+Add Pin To Net: Unknown Pin: Pin M1-5
+Add Pin To Net: Unknown Pin: Pin M1-6
+Added Pin To Net: NetName=A0 Pin=R3-2
+Add Class Member: Failed to add class member : Component M1 TP4056Module
