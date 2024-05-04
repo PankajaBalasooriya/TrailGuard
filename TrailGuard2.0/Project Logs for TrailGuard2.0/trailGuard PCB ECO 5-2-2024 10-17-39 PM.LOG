@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=H1-9
+Removed Pin From Net: NetName=GND Pin=H1-10
+Removed Pin From Net: NetName=A6 Pin=J10-2
+Removed Pin From Net: NetName=A0 Pin=R3-2
+Removed Member From Class: ClassName=trailGuard Member=D3
+Removed Member From Class: ClassName=trailGuard Member=R3
+Added Component: Designator=M1(TP4056Module)
+Added Pin To Net: NetName=D0/RX Pin=H1-9
+Added Pin To Net: NetName=D1/TX Pin=H1-10
+Added Pin To Net: NetName=A0 Pin=J10-2
+Added Pin To Net: NetName=NetJ1_1 Pin=M1-3
+Added Pin To Net: NetName=NetJ4_1 Pin=M1-4
+Added Pin To Net: NetName=NetJ4_2 Pin=M1-5
+Added Pin To Net: NetName=NetJ3_2 Pin=M1-6
+Added Member To Class: ClassName=trailGuard Member=Component M1 TP4056Module

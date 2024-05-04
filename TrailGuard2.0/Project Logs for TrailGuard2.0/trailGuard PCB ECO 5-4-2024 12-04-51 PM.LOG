@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAPPRD350W65D800H1300 New Footprint=CAPPRD350W60D825H1300
+Change Component Comment : Designator=C9 Old Comment=870585574003 New Comment=220uF
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPPRD350W65D800H1300"; UniqueID = "\QQCVUYYB" ("\QQCVUYYB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://aishi.us/files/WH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Aishi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EWH1EV221F11OT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

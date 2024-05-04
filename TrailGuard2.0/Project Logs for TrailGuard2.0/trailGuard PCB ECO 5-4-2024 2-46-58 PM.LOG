@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Change Component Footprint: Designator=C1 Old Footprint=C1206 New Footprint=CAPPM3216X180N
+Change Component Footprint: Designator=IC1 Old Footprint=TO254P470X1028X1955-3P New Footprint=D2PAK-STB35NF10T4
+Change Component Comment : Designator=IC1 Old Comment=LM7805 New Comment=L7805ABD2T-TR
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C1206"; UniqueID = "\TLOZHFCU" ("\TLOZHFCU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D334X9035A2TE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "74-293D334X9035A2TE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D334X9035A2TE3?qs=CH3Q5FKf4qBLTGJb7uLzfw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "TO254P470X1028X1955-3P"; UniqueID = "\QNIEIEDC" ("\QNIEIEDC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "L7805ABD2T-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/l7805abd2t-tr/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/l78.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L7805ABD2T-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-L7805ABD2T-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7805ABD2T-TR?qs=LL%252BsqOK9SqOQ%2FfZD5ZsNqA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-4

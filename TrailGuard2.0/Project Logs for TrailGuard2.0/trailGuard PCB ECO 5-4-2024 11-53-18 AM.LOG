@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=DGND Pin=D2-1
+Removed Pin From Net: NetName=+5V Pin=D2-2
+Removed Pin From Net: NetName=A4/SCL Pin=D2-3
+Removed Pin From Net: NetName=A5/SDA Pin=D2-4
+Removed Pin From Net: NetName=DGND Pin=D2-5
+Removed Pin From Net: NetName=+5V Pin=D2-6
+Removed Pin From Net: NetName=A4/SCL Pin=D2-7
+Removed Pin From Net: NetName=A5/SDA Pin=D2-8
+Removed Pin From Net: NetName=NetJ1_1 Pin=M1-3
+Removed Pin From Net: NetName=NetJ3_2 Pin=M1-6
+Change Component Comment : Designator=J4 Old Comment=Battery New Comment=TCP4056 Out
+Added Component: Designator=C3(CAPC3216X180N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/EMK316B7475KL-T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EMK316B7475KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-EMK316B7475KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2xhDY35w16PKg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=J12(FP-B4B-XH-AM_LF_SN-MFG)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J4-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J4-2
+Added Pin To Net: NetName=A5/SDA Pin=J12-1
+Added Pin To Net: NetName=A4/SCL Pin=J12-2
+Added Pin To Net: NetName=+5V Pin=J12-3
+Added Pin To Net: NetName=DGND Pin=J12-4
