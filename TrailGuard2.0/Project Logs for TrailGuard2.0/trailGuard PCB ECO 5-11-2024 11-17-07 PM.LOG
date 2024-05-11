@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=Optical Dust Sensor-5
+Change Component Footprint: Designator=C9 Old Footprint=CAPPRD350W60D825H1300 New Footprint=EEE0JA331XP
+Change Component Comment : Designator=C9 Old Comment=220uF New Comment=220uf 16v
+Change Component Designator: OldDesignator=16MHz NewDesignator=Y1
+Change Component Designator: OldDesignator=ASP  NewDesignator=H1
+Change Component Designator: OldDesignator=Atmega328p-AU NewDesignator=U1
+Change Component Designator: OldDesignator=Boost Conv. NewDesignator=J2
+Change Component Designator: OldDesignator=Buzzer NewDesignator=J5
+Change Component Designator: OldDesignator=Display  NewDesignator=J12
+Change Component Designator: OldDesignator=Gas Sensor NewDesignator=J11
+Change Component Designator: OldDesignator=LED NewDesignator=DS1
+Change Component Designator: OldDesignator=LM7805 NewDesignator=IC1
+Change Component Designator: OldDesignator=Optical Dust Sensor NewDesignator=J7
+Change Component Designator: OldDesignator=PH Sensor NewDesignator=J8
+Change Component Designator: OldDesignator=Reset NewDesignator=SW1
+Change Component Designator: OldDesignator=TDS NewDesignator=J6
+Change Component Designator: OldDesignator=Temperature Sensor NewDesignator=J9
+Change Component Designator: OldDesignator=Turbidity Sensor NewDesignator=J10
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPPRD350W60D825H1300"; UniqueID = "\CCIETVCE" ("\CCIETVCE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FTE221XAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eeefte221xap/panasonic?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FTE221XAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FTE221XAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FTE221XAP?qs=CMJjuEs1%252BuHWDEFaun6NQg%3D%3D"; VariantName = "[No Variations]"
