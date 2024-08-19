@@ -46,7 +46,7 @@ Trail Guard is a portable device that monitors various environmental parameters,
 The PCB design of Trail Guard was done using Altium Designer. The PCB design files are available in the `TrailGuard2.0` folder.
 
 ## PCB Schematic
-[PCB Schematic](./)
+[PCB Schematic](./documents/Images/PCB_schematic.jpg)
 
 ## PCB
 
