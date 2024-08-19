@@ -34,7 +34,6 @@ Trail Guard is a portable device that monitors various environmental parameters,
   - Adafruit_GFX
   - Adafruit_SSD1306
   - DHT
-  - MQ2
 - **PCB Design Software**: Altium Designer
 - **3D Modelling Software**: SolidWorks
 
