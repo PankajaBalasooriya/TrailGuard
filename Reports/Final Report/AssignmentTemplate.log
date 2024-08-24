@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  23 AUG 2024 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  24 AUG 2024 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/PANKAJA/OneDrive/Projects/LaTeX-Templates/Assignment_Template_8-15_Pages/AssignmentTemplate.tex
-(c:/Users/PANKAJA/OneDrive/Projects/LaTeX-Templates/Assignment_Template_8-15_Pages/AssignmentTemplate.tex
+**"c:/Users/PANKAJA/OneDrive/Acadamics/UOM_Engineering/Academics/Semester 2/EN1190 Engineering Design Project/TrailGuard/TrailGuard/Reports/Final Report/AssignmentTemplate.tex"
+(c:/Users/PANKAJA/OneDrive/Acadamics/UOM_Engineering/Academics/Semester 2/EN1190 Engineering Design Project/TrailGuard/TrailGuard/Reports/Final Report/AssignmentTemplate.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -338,23 +338,238 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip60
 \multirow@cntb=\count313
 \multirow@dima=\skip61
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\pgf-pie.sty
+Package: pgf-pie 2022/06/14 v0.7 Some LaTeX macros for pie chart by using PGF/Tikz package.
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box58
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write5
+\r@pgf@reada=\read2
+\c@pgf@counta=\count314
+\c@pgf@countb=\count315
+\c@pgf@countc=\count316
+\c@pgf@countd=\count317
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count318
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count319
+\pgfsyssoftpath@bigbuffer@items=\count320
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count321
+\pgfmath@box=\box59
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count322
+)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count323
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen189
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen193
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count324
+\pgf@shadingcount=\count325
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box63
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box64
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count326
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count327
+\tikznumberofchildren=\count328
+\tikznumberofcurrentchild=\count329
+\tikz@fig@count=\count330
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count331
+\pgfmatrixcurrentcolumn=\count332
+\pgf@matrix@numberofcolumns=\count333
+)
+\tikz@expandcount=\count334
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\tikzlibrarypie.code.tex (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+\pgfpie@angleEnd=\dimen264
+\pgfpie@explodeLength=\count335
+\pgfpie@colorLength=\count336
+\pgfpie@sliceLength=\count337
+)) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen265
+\ESO@tempdimb=\dimen266
+) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen267
+\captionmargin=\dimen268
+\caption@leftmargin=\dimen269
+\caption@rightmargin=\dimen270
+\caption@width=\dimen271
+\caption@indent=\dimen272
+\caption@parindent=\dimen273
+\caption@hangindent=\dimen274
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count338
+\c@continuedfloat=\count339
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count340
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count341
 )) (settings/page.tex (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count314
-\Gm@cntv=\count315
-\c@Gm@tempcnt=\count316
-\Gm@bindingoffset=\dimen158
-\Gm@wd@mp=\dimen159
-\Gm@odd@mp=\dimen160
-\Gm@even@mp=\dimen161
-\Gm@layoutwidth=\dimen162
-\Gm@layoutheight=\dimen163
-\Gm@layouthoffset=\dimen164
-\Gm@layoutvoffset=\dimen165
-\Gm@dimlist=\toks27
+\Gm@cnth=\count342
+\Gm@cntv=\count343
+\c@Gm@tempcnt=\count344
+\Gm@bindingoffset=\dimen275
+\Gm@wd@mp=\dimen276
+\Gm@odd@mp=\dimen277
+\Gm@even@mp=\dimen278
+\Gm@layoutwidth=\dimen279
+\Gm@layoutheight=\dimen280
+\Gm@layouthoffset=\dimen281
+\Gm@layoutvoffset=\dimen282
+\Gm@dimlist=\toks39
  (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip62
@@ -368,8 +583,8 @@ Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
 \f@nch@O@orf=\skip70
 ) (settings/macros.tex) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count317
-\l__pdf_internal_box=\box58
+\l__color_backend_stack_int=\count345
+\l__pdf_internal_box=\box69
 ) (AssignmentTemplate.aux)
 \openout1 = `AssignmentTemplate.aux'.
 
@@ -393,22 +608,22 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 Package hyperref Info: Link coloring ON on input line 8.
  (AssignmentTemplate.out) (AssignmentTemplate.out)
-\@outlinefile=\write5
-\openout5 = `AssignmentTemplate.out'.
+\@outlinefile=\write6
+\openout6 = `AssignmentTemplate.out'.
 
  (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
-\scratchdimen=\dimen166
-\scratchbox=\box59
-\nofMPsegments=\count319
-\nofMParguments=\count320
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count321
-\MPscratchDim=\dimen167
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count346
+\scratchdimen=\dimen283
+\scratchbox=\box70
+\nofMPsegments=\count347
+\nofMParguments=\count348
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count349
+\MPscratchDim=\dimen284
+\MPnumerator=\count350
+\makeMPintoPDFobject=\count351
+\everyMPtoPDFconversion=\toks41
 ) (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -426,6 +641,8 @@ Package gensymb Info: Using \Omega for \ohm on input line 8.
 
 Package gensymb Warning: Not defining \micro.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -461,7 +678,7 @@ Package gensymb Warning: Not defining \micro.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (content/title_page.tex
-<figures/uomlogo.png, id=155, 307.1475pt x 326.21875pt>
+<figures/uomlogo.png, id=190, 307.1475pt x 326.21875pt>
 File: figures/uomlogo.png Graphic file (type png)
 <use figures/uomlogo.png>
 Package pdftex.def Info: figures/uomlogo.png  used on input line 10.
@@ -470,7 +687,18 @@ Package pdftex.def Info: figures/uomlogo.png  used on input line 10.
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/PANKAJA/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/uomlogo.png>]) (AssignmentTemplate.toc
+{C:/Users/PANKAJA/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/uomlogo.png>])
+<figures/TrailGuardLogo.png, id=200, 2007.5pt x 688.5725pt>
+File: figures/TrailGuardLogo.png Graphic file (type png)
+<use figures/TrailGuardLogo.png>
+Package pdftex.def Info: figures/TrailGuardLogo.png  used on input line 16.
+(pdftex.def)             Requested size: 241.84843pt x 82.95084pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 \newpage
+              [1 <./figures/TrailGuardLogo.png>] (AssignmentTemplate.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -478,266 +706,145 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write6
-\openout6 = `AssignmentTemplate.toc'.
+) [2])
+\tf@toc=\write7
+\openout7 = `AssignmentTemplate.toc'.
 
+ [3]
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no r in font nullfont!
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.13 
-      [1]
-<figures/macllc.png, id=210, 679.94025pt x 421.575pt>
-File: figures/macllc.png Graphic file (type png)
-<use figures/macllc.png>
-Package pdftex.def Info: figures/macllc.png  used on input line 32.
-(pdftex.def)             Requested size: 305.97028pt x 189.70699pt.
-
-
-Package natbib Warning: Citation `main' on page 2 undefined on input line 33.
-
-
-Package natbib Warning: Citation `main' on page 2 undefined on input line 33.
-
-
-Package natbib Warning: Citation `main' on page 2 undefined on input line 38.
-
-[2 <./figures/macllc.png>]
-<figures/framformat.png, id=222, 593.8185pt x 388.45125pt>
-File: figures/framformat.png Graphic file (type png)
-<use figures/framformat.png>
-Package pdftex.def Info: figures/framformat.png  used on input line 67.
-(pdftex.def)             Requested size: 267.21585pt x 174.80144pt.
-
-
-Package natbib Warning: Citation `main' on page 3 undefined on input line 68.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 43--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-[3 <./figures/framformat.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
+Overfull \hbox (57.09032pt too wide) in paragraph at lines 43--76
+[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 43--76
 
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 118.
-(C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
-File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-<figures/addfield.png, id=229, 1020.2115pt x 424.58624pt>
-File: figures/addfield.png Graphic file (type png)
-<use figures/addfield.png>
-Package pdftex.def Info: figures/addfield.png  used on input line 156.
-(pdftex.def)             Requested size: 204.03868pt x 84.91574pt.
-
-Package natbib Warning: Citation `main' on page 4 undefined on input line 157.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4]
-<figures/macc.png, id=237, 578.4009pt x 164.7756pt>
-File: figures/macc.png Graphic file (type png)
-<use figures/macc.png>
-Package pdftex.def Info: figures/macc.png  used on input line 189.
-(pdftex.def)             Requested size: 433.7996pt x 123.58138pt.
-
-
-Package natbib Warning: Citation `main' on page 5 undefined on input line 190.
-
-
-Package natbib Warning: Citation `main' on page 5 undefined on input line 190.
-
-
-Package natbib Warning: Citation `main' on page 5 undefined on input line 195.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
-
- []
-
-[5 <./figures/addfield.png> <./figures/macc.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 93--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 1033) in paragraph at lines 93--97
+\OT1/cmr/m/n/10.95 These sen-sors have been cho-sen for their ac-cu-racy, re-li-a-bil-ity, and low power con-sump-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--102
 
  []
 
 
-Package natbib Warning: Citation `ppp' on page 6 undefined on input line 302.
+Underfull \hbox (badness 1122) in paragraph at lines 98--102
+\OT1/cmr/m/n/10.95 The soft-ware will need to han-dle real-time data ac-qui-si-tion from mul-ti-ple sen-sors, per-form
+ []
 
+[6] [7]
+<figures/Block Diagram.png, id=279, 858.20625pt x 622.325pt>
+File: figures/Block Diagram.png Graphic file (type png)
+<use figures/Block Diagram.png>
+Package pdftex.def Info: figures/Block Diagram.png  used on input line 140.
+(pdftex.def)             Requested size: 386.18924pt x 280.04366pt.
 
-Underfull \hbox (badness 1087) in paragraph at lines 305--306
-[]\OT1/cmr/m/n/10.95 A Link Con-trol pro-to-col(LCP) for link man-age-ment func-tions such as setting-up,
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]\OT1/cmr/m/n/10.95 DHT11 Tem-per-a-ture and
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 306--308
-[]\OT1/cmr/m/n/10.95 A group of Net-work Con-trol Pro-to-cols (NCPs) to set-up and con-fig-ure dif-fer-ent
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 150--167
+[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-
+Underfull \hbox (badness 3930) in paragraph at lines 180--181
+[]\OT1/cmr/m/n/10.95 Provides vi-sual alerts, com-ple-ment-ing the buzzer for
  []
 
-[6]
-
-Package natbib Warning: Citation `ppp' on page 7 undefined on input line 348.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+[8 <./figures/Block Diagram.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-
- []
-
-
-Package natbib Warning: Citation `ppp' on page 7 undefined on input line 391.
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
-
- []
-
-
-Package natbib Warning: Citation `ppp' on page 8 undefined on input line 437.
-
-
-Package natbib Warning: Citation `ppp' on page 8 undefined on input line 448.
-
-[8]
-Overfull \hbox (29.89035pt too wide) in paragraph at lines 462--493
- [][] 
- []
-
-
-Package natbib Warning: Citation `ppp' on page 9 undefined on input line 493.
 
 [9]
-File: figures/framformat.png Graphic file (type png)
-<use figures/framformat.png>
-Package pdftex.def Info: figures/framformat.png  used on input line 541.
-(pdftex.def)             Requested size: 267.21585pt x 174.80144pt.
-
-Overfull \hbox (97.919pt too wide) in paragraph at lines 541--542
- [][] 
- []
-
-
-Package natbib Warning: Citation `main' on page 10 undefined on input line 542.
-
-
-Package natbib Warning: Citation `main' on page 10 undefined on input line 542.
-
-
-Overfull \hbox (18.07129pt too wide) in paragraph at lines 547--559
- [][] 
- []
-
-
-Package natbib Warning: Citation `ppp' on page 10 undefined on input line 559.
-
-
-Package natbib Warning: Citation `ppp' on page 10 undefined on input line 559.
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 602--603
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 607--608
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 609--610
-
- []
-
-
-Package natbib Warning: Citation `pppoe' on page 11 undefined on input line 612.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
-
- []
-
-
-Package natbib Warning: There were undefined citations.
-
-[11] (AssignmentTemplate.aux)
+<figures/Enclosure.jpg, id=290, 669.75352pt x 427.43648pt>
+File: figures/Enclosure.jpg Graphic file (type jpg)
+<use figures/Enclosure.jpg>
+Package pdftex.def Info: figures/Enclosure.jpg  used on input line 218.
+(pdftex.def)             Requested size: 468.82428pt x 299.20349pt.
+ [10 <./figures/Enclosure.jpg>]
+<./figures/PCBBottomLayer.png, id=296, 528.7755pt x 547.44525pt>
+File: ./figures/PCBBottomLayer.png Graphic file (type png)
+<use ./figures/PCBBottomLayer.png>
+Package pdftex.def Info: ./figures/PCBBottomLayer.png  used on input line 234.
+(pdftex.def)             Requested size: 130.60022pt x 135.20702pt.
+<./figures/PCBTopLayer.png, id=297, 544.434pt x 537.80925pt>
+File: ./figures/PCBTopLayer.png Graphic file (type png)
+<use ./figures/PCBTopLayer.png>
+Package pdftex.def Info: ./figures/PCBTopLayer.png  used on input line 241.
+(pdftex.def)             Requested size: 130.60022pt x 129.0112pt.
+<./figures/BoardStack.jpg, id=298, 794.97pt x 614.295pt>
+File: ./figures/BoardStack.jpg Graphic file (type jpg)
+<use ./figures/BoardStack.jpg>
+Package pdftex.def Info: ./figures/BoardStack.jpg  used on input line 247.
+(pdftex.def)             Requested size: 174.13116pt x 134.5548pt.
+<./figures/PCBDesign1.png, id=299, 676.77844pt x 697.10437pt>
+File: ./figures/PCBDesign1.png Graphic file (type png)
+<use ./figures/PCBDesign1.png>
+Package pdftex.def Info: ./figures/PCBDesign1.png  used on input line 260.
+(pdftex.def)             Requested size: 217.66211pt x 224.19482pt.
+<./figures/PCBDesign2.png, id=300, 706.89093pt x 682.04813pt>
+File: ./figures/PCBDesign2.png Graphic file (type png)
+<use ./figures/PCBDesign2.png>
+Package pdftex.def Info: ./figures/PCBDesign2.png  used on input line 265.
+(pdftex.def)             Requested size: 217.66211pt x 210.00694pt.
+ [11 <./figures/PCBBottomLayer.png> <./figures/PCBTopLayer.png> <./figures/BoardStack.jpg> <./figures/PCBDesign1.png> <./figures/PCBDesign2.png>]
+<./figures/PCB_schematic.jpg, id=311, 794.97pt x 614.37271pt>
+File: ./figures/PCB_schematic.jpg Graphic file (type jpg)
+<use ./figures/PCB_schematic.jpg>
+Package pdftex.def Info: ./figures/PCB_schematic.jpg  used on input line 273.
+(pdftex.def)             Requested size: 476.98569pt x 368.62646pt.
+ [12 <./figures/PCB_schematic.jpg>]
+<./figures/finalinternal.jpg, id=318, 777.09677pt x 542.025pt>
+File: ./figures/finalinternal.jpg Graphic file (type jpg)
+<use ./figures/finalinternal.jpg>
+Package pdftex.def Info: ./figures/finalinternal.jpg  used on input line 282.
+(pdftex.def)             Requested size: 427.40454pt x 298.11467pt.
+<./figures/FinalProduct.jpg, id=319, 537.36243pt x 521.43193pt>
+File: ./figures/FinalProduct.jpg Graphic file (type jpg)
+<use ./figures/FinalProduct.jpg>
+Package pdftex.def Info: ./figures/FinalProduct.jpg  used on input line 288.
+(pdftex.def)             Requested size: 295.55025pt x 286.78845pt.
+ [13 <./figures/finalinternal.jpg> <./figures/FinalProduct.jpg>] [14] [15] [16] (AssignmentTemplate.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `AssignmentTemplate.out' has not changed.
-(rerunfilecheck)             Checksum: 8BC8188C4B3DF5538C7F761292EBD4BF;6513.
+(rerunfilecheck)             Checksum: C8297647F31393885D426AA64EA665CC;6776.
  ) 
 Here is how much of TeX's memory you used:
- 12222 strings out of 474424
- 190030 string characters out of 5740796
+ 24263 strings out of 474424
+ 454636 string characters out of 5740796
  1943496 words of memory out of 5000000
- 34288 multiletter control sequences out of 15000+600000
- 567778 words of font info for 72 fonts, out of 8000000 for 9000
+ 46108 multiletter control sequences out of 15000+600000
+ 564542 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,10n,82p,810b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\PANKAJA\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on AssignmentTemplate.pdf (12 pages, 826990 bytes).
+ 104i,9n,134p,954b,836s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PANKAJA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on AssignmentTemplate.pdf (17 pages, 3045895 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 330 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 382 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 441 words of extra memory for PDF output out of 10000 (max. 10000000)
 

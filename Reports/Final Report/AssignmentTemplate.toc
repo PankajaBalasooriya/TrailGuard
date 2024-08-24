@@ -1,38 +1,46 @@
-\contentsline {section}{\numberline {1}IE 802.3i protocol (10BASE-T standard)}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Introduction}{2}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Media Access control(MAC) sublayer}{2}{subsubsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.2}Framing}{3}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}Preamble}{3}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}SFD-Start Frame Delimiter}{3}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Address Fields}{3}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}Length/Type Field}{3}{subsubsection.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.2.5}MAC Client Data field}{4}{subsubsection.1.2.5}%
-\contentsline {subsubsection}{\numberline {1.2.6}Pad field}{4}{subsubsection.1.2.6}%
-\contentsline {subsubsection}{\numberline {1.2.7}Frame Check Sequence(FCS) field}{4}{subsubsection.1.2.7}%
-\contentsline {subsection}{\numberline {1.3}Addressing}{4}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Flow control}{5}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}MAC control sublayer and MAC control frame}{5}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}PAUSE operation}{5}{subsubsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.5}Error control}{6}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Link Management(Media access management)}{6}{subsection.1.6}%
-\contentsline {section}{\numberline {2}Point to Point Protocol(PPP)}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Introduction}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Framing}{7}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Flag field}{7}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Address Field}{7}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Control Field}{7}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Protocol Field}{7}{subsubsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.2.5}Information Field}{8}{subsubsection.2.2.5}%
-\contentsline {subsubsection}{\numberline {2.2.6}Frame Check Sequence(FCS) Field }{8}{subsubsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.3}Addressing}{8}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Error control}{8}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Link Management and Flow control}{8}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}LCP Frame format}{9}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Establish a session}{9}{subsubsection.2.5.2}%
-\contentsline {section}{\numberline {3}Similarities, Differences, Strengths and Weaknesses in IEEE 802.3i protocol and Point-to-Point Protocol }{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Framing}{10}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Addressing}{10}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Flow Control}{10}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Error Control}{11}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Link Management}{11}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Point-to-Point Protocol Over Ethernet(PPPoE)}{11}{section.4}%
+\contentsline {section}{\numberline {1}Problem Description}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Solution}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Motivation}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Justification}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Feasibility}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Technical Feasibility}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Hardware Feasibility}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Software Feasibility}{6}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Economic Feasibility}{6}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Applications}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Hiking and Outdoor Adventures}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Caving and Spelunking}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Environmental Monitoring for Residents}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Travel Safety}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Educational and Research Purposes}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Product Architecture}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Hardware Architecture}{8}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Microcontroller}{8}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Sensors}{8}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Input/Output (IO) Devices}{9}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Power Management}{9}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Power Source}{9}{subsubsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.2}Software Architecture}{9}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Firmware}{9}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Sensor Data Processing}{9}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}User Interface}{9}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Alert System}{9}{subsubsection.4.2.4}%
+\contentsline {section}{\numberline {5}Design and Product Enclosure}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Design Overview}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Enclosure Design}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Mounting and Portability}{10}{subsection.5.3}%
+\contentsline {section}{\numberline {6}PCB}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}PCB Design}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}PCB Schematic}{12}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Final Product}{13}{section.7}%
+\contentsline {section}{\numberline {8}Marketing Strategy}{14}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Marketing Strategy}{14}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Target Market}{14}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Value Proposition}{14}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Marketing Channels}{14}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Pricing Strategy}{14}{subsubsection.8.1.4}%
+\contentsline {section}{\numberline {9}Task Allocation}{15}{section.9}%
+\contentsline {section}{\numberline {10}Project Budget}{15}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Production Cost for a single unit}{15}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Marketing Budget}{16}{subsection.10.2}%
