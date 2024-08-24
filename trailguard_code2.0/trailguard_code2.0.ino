@@ -285,6 +285,7 @@ void loop() {
           }
 
           else{
+	    digitalWrite(10,HIGH);
             Serial.println(analogRead(A3));
             int analogValue = 0;
             for (int i = 0; i < SCOUNT; i++) {
