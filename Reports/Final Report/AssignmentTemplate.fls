@@ -249,6 +249,8 @@ INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.
 INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
+INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
 INPUT .\settings\page.tex
 INPUT .\settings\page.tex
 INPUT .\settings\page.tex
@@ -413,6 +415,7 @@ INPUT .\figures\FinalProduct.jpg
 INPUT .\figures\FinalProduct.jpg
 INPUT .\figures\FinalProduct.jpg
 INPUT .\figures\FinalProduct.jpg
+INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT AssignmentTemplate.aux
 INPUT .\AssignmentTemplate.out
 INPUT .\AssignmentTemplate.out
@@ -424,3 +427,5 @@ INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts
 INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\PANKAJA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
