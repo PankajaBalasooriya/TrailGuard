@@ -1,4 +1,4 @@
-# TrailGuard
+  `# TrailGuard
 Trail Guard is a portable device that monitors various environmental parameters, including air and water quality, using a wide range of sensors. This comprehensive monitoring tool is designed to be valuable for both travelers and residents who are concerned about their environmental conditions.. 
 
 ## Table of Contents
@@ -61,6 +61,11 @@ The PCB design of Trail Guard was done using Altium Designer. The PCB design fil
 </div>
 
 ## SolidWorks Design
+<div style="display: flex; justify-content: space-between;">
+    <img src="./Product view/External view.jpg" alt="Image 1" width="45%" height="auto">
+    <img src="./Product view/Internal view.jpg" alt="Image 2" width="45%" height="auto">
+</div>
+
 
 ## Team Members
 | Name | Index Number |Email|
