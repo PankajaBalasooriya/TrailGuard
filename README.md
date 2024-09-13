@@ -66,6 +66,8 @@ The PCB design of Trail Guard was done using Altium Designer. The PCB design fil
     <img src="./Product view/Internal view.png" alt="Image 2" width="45%" height="auto">
 </div>
 
+## Product View
+![Product View](./documents/Images/Final product view.jpg)
 
 ## Team Members
 | Name | Index Number |Email|
