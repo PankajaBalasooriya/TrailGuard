@@ -1,4 +1,4 @@
-  `# TrailGuard
+## TrailGuard
 Trail Guard is a portable device that monitors various environmental parameters, including air and water quality, using a wide range of sensors. This comprehensive monitoring tool is designed to be valuable for both travelers and residents who are concerned about their environmental conditions.. 
 
 ## Table of Contents
